@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long
+#define endl "\n"
+#define mod 1e9+7
+
+void runCases() {
+    
+}
+
+int main() {
+    runCases();
+    return 0;
+}
